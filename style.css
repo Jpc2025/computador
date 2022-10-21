@@ -4,13 +4,11 @@ text-align: center;
 color: rgba(217, 214, 218, 0.932);
 
 
-}
 body{
 margin: 3px;
  font-size: 20px;
- text-align: end;
- color: coral;
-background: linear-gradient(rgb(16, 125, 133), rgba(17, 17, 17, 0.801))
+ text-align: justify;
+background: linear-gradient(rgb(213, 166, 231), rgba(17, 17, 17, 0.801))
 }
 
 .b{
