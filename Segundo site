@@ -1,0 +1,67 @@
+<html lang=pt-br><!DOCTYPE html>
+<html lang=pt-br>
+
+
+<head>
+    <title> Corinthians </title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<header>
+
+
+</header>
+
+<body>
+
+    <h1> <u>Corinthians</u> </h1>
+
+
+    <h1>É o Clube com um dos mais bem sucedidos do Brasil e das Américas nos últimos anos. </u> </h2>
+
+        <b> Historia</b>
+
+        <p>Em 1º de setembro de 1910, cinco trabalhadores foram inspirados pela turnê do Corinthian Football Club no Brasil. O time inglês já havia vencido com facilidade o Fluminense e o Club Athletico Paulistano, e nesse dia, cravou mais uma vitória sobre um dos grandes times paulistas da época, a Associação Atlética das Palmeiras..</p>
+
+        <b> Segunda Geração (1959-1965)</b>
+        <p>Ainda com dimensões muito grandes, os computadores da segunda geração funcionavam por meio de transistores,
+            os quais substituíram as válvulas que eram maiores e mais lentas.
+            Nesse período já começam a se espalhar o uso comercial.</p>
+
+        <b>Terceira Geração (1965-1975)</b>
+        <p>Os computadores da terceira geração funcionavam por circuitos integrados. Esses substituíram os transistores
+            e já apresentavam uma dimensão menor e maior capacidade de processamento.
+            Foi nesse período que os chips foram criados e a utilização de computadores pessoais começou.</p>
+
+        <b>Quarta Geração (1975-até os dias atuais)</b>
+        <p>Com o desenvolvimento da tecnologia da informação, os computadores diminuem de tamanho, aumentam a velocidade
+            e capacidade de processamento de dados.
+            São incluídos os microprocessadores com gasto cada vez menor de energia.
+            Alguns estudiosos preferem acrescentar a “Quinta Geração de Computadores” com o aparecimento dos
+            supercomputadores, utilizados por grandes corporações como a NASA.</p>
+
+            <img classes="sesii" src="oi.png" alt="couto">
+
+        <h2><b>Conhece o Zezinho?</b></h2>
+
+        <p><b>Esse foi o carinhoso nome dado ao primeiro computador feito no Brasil, em 1961 – fruto de um trabalho de
+            conclusão de curso de quatro alunos do ITA (Instituto Tecnológico de Aeronáutica), em São José dos Campos
+            (SP): Alfred Volkmer, András György Vásárhelyi, Fernando Vieira de Souza e José Ellis Ripper Filho, sob
+            orientação do Professor Tien Wei Chu. A história, porém é cercada de polêmica: a Escola Politécnica da USP
+            também proclama que seu Patinho Feio foi o primeiro. Porém, ele só funcionou 11 anos depois do Zezinho…
+            Detalhe: Zezinho tinha 8 posições de memória de 8 bits. </b></p>
+
+
+        <img classes="sesii" src="sesi.jpg" alt="couto">
+        <img classes="sesii" src="xi.png" alt="couto">
+        
+</body>
+
+
+<footer>
+
+</footer>
+
+</html>
