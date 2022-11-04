@@ -5,7 +5,7 @@
 <head>
     <title> Corinthians </title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="filmecomputer.css">
 </head>
 
 
@@ -16,10 +16,12 @@
 
 <body>
 
-    <h1> <u>Corinthians</u> </h1>
+    <h1> <u>Filme O Jogo da Imitação</u> </h1>
 
+    <img classes="computerfilm" src="de.PNG" alt="couto">
 
-    <h1>É o Clube com um dos mais bem sucedidos do Brasil e das Américas nos últimos anos. </u> </h2>
+    
+    <h1>Com 8 Indicações ao Oscar. </u> </h2>
 
         <b> Historia</b>
 
@@ -54,9 +56,7 @@
             Detalhe: Zezinho tinha 8 posições de memória de 8 bits. </b></p>
 
 
-        <img classes="sesii" src="sesi.jpg" alt="couto">
-        <img classes="sesii" src="xi.png" alt="couto">
-        
+    
 </body>
 
 
